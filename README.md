@@ -1,9 +1,9 @@
 # Frameworks-Platzi
-<div style="display: flex">
-    <img style="margin: auto" src="./js.jpg">
+<div style="display: flex; justify-content: center">
+    <img src="./js.jpg">
 </div>
 <br>
-Este es el [curso de Platzi](https://platzi.com/cursos/frameworks-javascript/) donde se repasan los principales frameworks de JavaScript, los cuales son:
+Este es el [curso de Platzi]("https://platzi.com/cursos/frameworks-javascript/") donde se repasan los principales frameworks de JavaScript, los cuales son:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">,
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">,
