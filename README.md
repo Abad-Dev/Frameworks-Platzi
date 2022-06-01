@@ -1,7 +1,7 @@
 # Frameworks-Platzi
 <html>
-    <div style="display: flex">
-        <img style="margin: auto" src="./js.jpg">
+    <div style="display: flex; justify-content: center">
+        <img src="./js.jpg">
     </div>
     <br>
 </html>
